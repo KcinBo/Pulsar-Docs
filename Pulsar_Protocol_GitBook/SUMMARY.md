@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Pulsar Protocol](README.md)
+* [Pulsar Protocol](../)
 
 ## Start here
 
@@ -33,4 +33,3 @@
 * [Contracts](docs/contracts.md)
 * [Risks and disclosures](docs/risks-and-disclosures.md)
 * [Brand assets](docs/brand-assets.md)
-

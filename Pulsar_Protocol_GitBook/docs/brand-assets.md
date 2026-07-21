@@ -4,7 +4,7 @@ The GitBook repository includes the supplied Pulsar identity files in the visibl
 
 ## Full logo
 
-![Pulsar Protocol full logo](../assets/pulsar-full-logo-transparent.png)
+![Pulsar Protocol full logo](../../.gitbook/assets/pulsar-full-logo-transparent.png)
 
 File: `assets/pulsar-full-logo-transparent.png`
 
@@ -12,19 +12,19 @@ An additional original-background version is included as `assets/pulsar-full-log
 
 ## Wordmark
 
-![Pulsar wordmark](../assets/pulsar-wordmark.png)
+![Pulsar wordmark](../../.gitbook/assets/pulsar-wordmark.png)
 
 File: `assets/pulsar-wordmark.png`
 
 ## Icon
 
-![Pulsar icon](../assets/pulsar-icon.png)
+![Pulsar icon](../../.gitbook/assets/pulsar-icon.png)
 
 File: `assets/pulsar-icon.png`
 
 ## Brand board
 
-![Pulsar brand board](../assets/pulsar-brand-board.jpg)
+![Pulsar brand board](../../.gitbook/assets/pulsar-brand-board.jpg)
 
 File: `assets/pulsar-brand-board.jpg`
 

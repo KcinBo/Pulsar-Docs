@@ -1,16 +1,16 @@
 # What is Pulsar?
 
-![Pulsar icon](../assets/pulsar-icon.png)
+![Pulsar icon](../../.gitbook/assets/pulsar-icon.png)
 
 Pulsar Protocol is a treasury-powered reserve protocol designed for PulseChain and a broader multichain crypto economy. Its purpose is to build protocol-owned capital, deploy that capital through approved strategies, and create a durable economic engine around PULSAR.
 
 Pulsar takes inspiration from the original OlympusDAO and Wonderland model:
 
-- users may stake the liquid protocol token;
-- the protocol may acquire assets through mints;
-- stakers may receive token-denominated rebases;
-- the treasury may own liquidity instead of continually renting it;
-- aligned participation can help the protocol grow.
+* users may stake the liquid protocol token;
+* the protocol may acquire assets through mints;
+* stakers may receive token-denominated rebases;
+* the treasury may own liquidity instead of continually renting it;
+* aligned participation can help the protocol grow.
 
 Pulsar adds a central emphasis: **treasury productivity**. The treasury is not intended to exist only as static backing for emissions. Subject to governance, security controls, and actual contract design, treasury capital may be deployed to earn fees, yield, or realized investment gains. A governed share of net realized earnings may then be retained, reinvested, used for buybacks, or distributed through an approved holder-aligned mechanism.
 

@@ -1,6 +1,6 @@
 # Pulsar Protocol
 
-![Pulsar Protocol](assets/pulsar-full-logo-transparent.png)
+![Pulsar Protocol](.gitbook/assets/pulsar-full-logo-transparent.png)
 
 ## The treasury-powered reserve protocol for PulseChain
 
@@ -12,9 +12,9 @@ PULSAR is the liquid protocol token. When PULSAR is staked, the holder receives 
 
 ### Start exploring
 
-- [What is Pulsar?](docs/what-is-pulsar.md)
-- [How Pulsar works](docs/how-pulsar-works.md)
-- [PULSAR, QUASAR, and wrapped QUASAR](docs/tokens.md)
-- [Staking and rebasing](docs/staking-and-rebasing.md)
-- [Minting PULSAR](docs/minting.md)
-- [Treasury earnings and distributions](docs/treasury-earnings.md)
+* [What is Pulsar?](Pulsar_Protocol_GitBook/docs/what-is-pulsar.md)
+* [How Pulsar works](Pulsar_Protocol_GitBook/docs/how-pulsar-works.md)
+* [PULSAR, QUASAR, and wrapped QUASAR](Pulsar_Protocol_GitBook/docs/tokens.md)
+* [Staking and rebasing](Pulsar_Protocol_GitBook/docs/staking-and-rebasing.md)
+* [Minting PULSAR](Pulsar_Protocol_GitBook/docs/minting.md)
+* [Treasury earnings and distributions](Pulsar_Protocol_GitBook/docs/treasury-earnings.md)
