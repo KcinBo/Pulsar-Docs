@@ -1,8 +1,8 @@
-# Pulsar Protocol
+# About
 
 ![Pulsar Protocol](.gitbook/assets/pulsar-full-logo-transparent.png)
 
-## The treasury-powered reserve protocol for PulseChain
+## The treasury-powered reserve protocol for Defi
 
 Pulsar Protocol is built to acquire, manage, and grow a diversified on-chain treasury. It combines the recognizable minting, staking, rebasing, protocol-owned liquidity, and **(3,3)** mechanics pioneered by early Olympus-style protocols with a sharper long-term goal: put protocol-owned capital to productive work and use governed treasury earnings to strengthen the system and reward aligned participation.
 
@@ -12,7 +12,7 @@ PULSAR is the liquid protocol token. When PULSAR is staked, the holder receives 
 
 ### Start exploring
 
-* [What is Pulsar?](Pulsar_Protocol_GitBook/docs/what-is-pulsar.md)
+* [What is Pulsar?](overview/what-is-pulsar.md)
 * [How Pulsar works](Pulsar_Protocol_GitBook/docs/how-pulsar-works.md)
 * [PULSAR, QUASAR, and wrapped QUASAR](Pulsar_Protocol_GitBook/docs/tokens.md)
 * [Staking and rebasing](Pulsar_Protocol_GitBook/docs/staking-and-rebasing.md)

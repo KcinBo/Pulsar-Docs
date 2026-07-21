@@ -4,7 +4,7 @@
 
 ## Start here
 
-* [What is Pulsar?](docs/what-is-pulsar.md)
+* [What is Pulsar?](../overview/what-is-pulsar.md)
 * [How Pulsar works](docs/how-pulsar-works.md)
 * [PULSAR, QUASAR, and wrapped QUASAR](docs/tokens.md)
 
@@ -25,11 +25,11 @@
 * [Market dynamics](docs/market-dynamics.md)
 * [Protocol metrics](docs/protocol-metrics.md)
 * [Equations and methodology](docs/equations.md)
-* [FAQ](docs/faq.md)
-* [Glossary](docs/glossary.md)
+* [FAQ](../misc/faq.md)
+* [Glossary](../misc/glossary.md)
 
 ## Reference
 
-* [Contracts](docs/contracts.md)
-* [Risks and disclosures](docs/risks-and-disclosures.md)
-* [Brand assets](docs/brand-assets.md)
+* [Contracts](../misc/contracts.md)
+* [Risks and disclosures](../risks-and-disclosures.md)
+* [Brand assets](../misc/brand-assets.md)

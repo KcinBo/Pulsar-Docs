@@ -1,7 +1,5 @@
 # What is Pulsar?
 
-![Pulsar icon](../../.gitbook/assets/pulsar-icon.png)
-
 Pulsar Protocol is a treasury-powered reserve protocol designed for PulseChain and a broader multichain crypto economy. Its purpose is to build protocol-owned capital, deploy that capital through approved strategies, and create a durable economic engine around PULSAR.
 
 Pulsar takes inspiration from the original OlympusDAO and Wonderland model:
