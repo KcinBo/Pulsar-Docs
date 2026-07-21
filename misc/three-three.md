@@ -1,6 +1,6 @@
 # (3,3) Aligned Participation
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/617ffac5f8955c922f09b3a6_inY74yA_9v6s3Ezv5szG4i-SiYNl4Zcl83fMKdSHTS19EdmjZHiL4M4CKcfkIHLGzq9bL4YjSce8YpzyszAB5Z5JFtSuIorfp8JHTZ8yZSdNbfkyZef3KBsqgMIkGLutu2QjTcbBLfOXDjLM8A.png" alt=""><figcaption></figcaption></figure>
 
 The meme is useful, but the old payoff table was never a complete market model. Staking does not create outside value on its own, minting is helpful only when the treasury receives sufficient value, and selling can be rational for liquidity, risk management, or price discovery.
 
