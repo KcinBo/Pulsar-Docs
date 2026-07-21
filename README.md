@@ -13,8 +13,8 @@ PULSAR is the liquid protocol token. When PULSAR is staked, the holder receives 
 ### Start exploring
 
 * [What is Pulsar?](overview/what-is-pulsar.md)
-* [How Pulsar works](Pulsar_Protocol_GitBook/docs/how-pulsar-works.md)
-* [PULSAR, QUASAR, and wrapped QUASAR](Pulsar_Protocol_GitBook/docs/tokens.md)
-* [Staking and rebasing](Pulsar_Protocol_GitBook/docs/staking-and-rebasing.md)
-* [Minting PULSAR](Pulsar_Protocol_GitBook/docs/minting.md)
-* [Treasury earnings and distributions](Pulsar_Protocol_GitBook/docs/treasury-earnings.md)
+* [How Pulsar works](protocol-mechanics/how-pulsar-works.md)
+* [PULSAR, QUASAR, and wrapped QUASAR](protocol-mechanics/tokens.md)
+* [Staking and rebasing](protocol-mechanics/staking-and-rebasing.md)
+* [Minting PULSAR](protocol-mechanics/minting.md)
+* [Treasury earnings and distributions](protocol-mechanics/treasury-earnings.md)

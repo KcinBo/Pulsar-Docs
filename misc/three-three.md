@@ -8,10 +8,10 @@ The meme is useful, but the old payoff table was never a complete market model. 
 
 For Pulsar, alignment means:
 
-- **Stake:** choose long-term participation when it fits your own risk tolerance.
-- **Mint responsibly:** participate when the terms are sensible for you and risk-adjusted value accrues to the treasury.
-- **Build:** strengthen liquidity, integrations, education, governance, transparency, and treasury productivity.
-- **Compound:** retain enough earnings and capital to grow the protocol's future earning power.
+* **Stake:** choose long-term participation when it fits your own risk tolerance.
+* **Mint responsibly:** participate when the terms are sensible for you and risk-adjusted value accrues to the treasury.
+* **Build:** strengthen liquidity, integrations, education,  transparency, and treasury productivity.
+* **Compound:** retain enough earnings and capital to grow the protocol's future earning power.
 
 The best collective outcome is not “nobody ever sells.” It is a system where incentives, risk limits, disclosure, and productive capital are aligned well enough to survive normal market behavior.
 

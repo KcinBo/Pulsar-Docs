@@ -12,10 +12,10 @@ QUASAR is the staked representation of PULSAR.
 
 Under the planned model:
 
-- stake PULSAR to receive QUASAR;
-- hold QUASAR to participate in authorized staking distributions;
-- unstake QUASAR to receive the corresponding PULSAR;
-- use the protocol index or conversion ratio to understand how the position has changed.
+* stake PULSAR to receive QUASAR;
+* hold QUASAR to participate in authorized staking distributions;
+* unstake QUASAR to receive the corresponding PULSAR;
+* use the protocol index or conversion ratio to understand how the position has changed.
 
 The final exchange mechanics, rebase schedule, reward source, and rounding rules must match the deployed contracts.
 
@@ -23,7 +23,7 @@ The final exchange mechanics, rebase schedule, reward source, and rounding rules
 
 A wrapped version of QUASAR may be introduced for applications that work better with a non-rebasing balance. Instead of increasing the number of tokens in the wallet, the wrapped token would generally represent an increasing amount of QUASAR as the index changes.
 
-Conceptually, if $W$ is the wrapped token balance and $C_t$ is the current QUASAR conversion ratio:
+Conceptually, if $W$ is the wrapped token balance and $$C_t$$ is the current QUASAR conversion ratio:
 
 $$Q_t = W \times C_t$$
 
@@ -31,8 +31,8 @@ The wrapper name, ticker, contract, conversion formula, supported networks, and 
 
 ## Token status
 
-| Token | Role | Status |
-|---|---|---|
-| PULSAR | Liquid protocol token | Contract pending |
-| QUASAR | Staked PULSAR representation | Contract pending |
+| Token          | Role                         | Status                    |
+| -------------- | ---------------------------- | ------------------------- |
+| PULSAR         | Liquid protocol token        | Contract pending          |
+| QUASAR         | Staked PULSAR representation | Contract pending          |
 | Wrapped QUASAR | Planned non-rebasing wrapper | Name and contract pending |

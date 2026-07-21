@@ -10,7 +10,7 @@ Pulsar takes inspiration from the original OlympusDAO and Wonderland model:
 * the treasury may own liquidity instead of continually renting it;
 * aligned participation can help the protocol grow.
 
-Pulsar adds a central emphasis: **treasury productivity**. The treasury is not intended to exist only as static backing for emissions. Subject to governance, security controls, and actual contract design, treasury capital may be deployed to earn fees, yield, or realized investment gains. A governed share of net realized earnings may then be retained, reinvested, used for buybacks, or distributed through an approved holder-aligned mechanism.
+Pulsar adds a central emphasis: **treasury productivity**. The treasury is not intended to exist only as static backing for emissions. Subject to governance (future state), security controls, and actual contract design, treasury capital may be deployed to earn fees, yield, or realized investment gains. A governed share of net realized earnings may then be retained, reinvested, used for buybacks, or distributed through an approved holder-aligned mechanism.
 
 ## Backed, not pegged
 

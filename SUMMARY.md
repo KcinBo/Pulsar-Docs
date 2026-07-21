@@ -2,30 +2,28 @@
 
 * [About](README.md)
 * [Risks and disclosures](risks-and-disclosures.md)
-* [Table of contents](Pulsar_Protocol_GitBook/SUMMARY.md)
 
 ## Overview
 
 * [What is Pulsar?](overview/what-is-pulsar.md)
+* [Dashboard](overview/protocol-metrics.md)
+* [Market dynamics](overview/market-dynamics.md)
+* [Protocol-owned liquidity](overview/protocol-owned-liquidity.md)
 
-***
+## Protocol Mechanics
 
-* [Overview](docs/README.md)
-  * [Equations and methodology](Pulsar_Protocol_GitBook/docs/equations.md)
-  * [How Pulsar works](Pulsar_Protocol_GitBook/docs/how-pulsar-works.md)
-  * [Market dynamics](Pulsar_Protocol_GitBook/docs/market-dynamics.md)
-  * [Minting PULSAR](Pulsar_Protocol_GitBook/docs/minting.md)
-  * [Protocol metrics](Pulsar_Protocol_GitBook/docs/protocol-metrics.md)
-  * [Protocol-owned liquidity](Pulsar_Protocol_GitBook/docs/protocol-owned-liquidity.md)
-  * [Staking and rebasing](Pulsar_Protocol_GitBook/docs/staking-and-rebasing.md)
-  * [(3,3) aligned participation](Pulsar_Protocol_GitBook/docs/three-three.md)
-  * [PULSAR, QUASAR, and wrapped QUASAR](Pulsar_Protocol_GitBook/docs/tokens.md)
-  * [Treasury earnings and distributions](Pulsar_Protocol_GitBook/docs/treasury-earnings.md)
-  * [The treasury](Pulsar_Protocol_GitBook/docs/treasury.md)
+* [How Pulsar works](protocol-mechanics/how-pulsar-works.md)
+* [Minting PULSAR](protocol-mechanics/minting.md)
+* [Staking and rebasing](protocol-mechanics/staking-and-rebasing.md)
+* [PULSAR, QUASAR, and wrapped QUASAR](protocol-mechanics/tokens.md)
+* [The Treasury](protocol-mechanics/treasury.md)
+* [Treasury earnings and distributions](protocol-mechanics/treasury-earnings.md)
 
 ## MISC
 
+* [(3,3) aligned participation](misc/three-three.md)
 * [Frequently asked questions](misc/faq.md)
+* [Equations and methodology](misc/equations.md)
 * [Glossary](misc/glossary.md)
 * [Contracts](misc/contracts.md)
 * [Brand assets](misc/brand-assets.md)
