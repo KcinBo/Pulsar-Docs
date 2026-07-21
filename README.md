@@ -1,6 +1,6 @@
 # About
 
-![Pulsar Protocol](.gitbook/assets/pulsar-full-logo-transparent.png)
+![Pulsar Protocol](.gitbook/assets/01_full_logo_protocol_original.png)
 
 ## The treasury-powered reserve protocol for Defi
 

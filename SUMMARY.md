@@ -21,7 +21,7 @@
 
 ## MISC
 
-* [(3,3) aligned participation](misc/three-three.md)
+* [(3,3) Aligned Participation](misc/three-three.md)
 * [Frequently asked questions](misc/faq.md)
 * [Equations and methodology](misc/equations.md)
 * [Glossary](misc/glossary.md)

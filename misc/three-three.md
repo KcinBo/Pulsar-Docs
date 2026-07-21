@@ -1,6 +1,6 @@
-# (3,3) aligned participation
+# (3,3) Aligned Participation
 
-**(3,3)** became the cultural shorthand of the original Olympus era. The simplified game described staking and bonding as cooperative actions and selling as a negative action. When two participants both chose the most protocol-aligned strategy, the model assigned the highest combined score: `(3,3)`.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The meme is useful, but the old payoff table was never a complete market model. Staking does not create outside value on its own, minting is helpful only when the treasury receives sufficient value, and selling can be rational for liquidity, risk management, or price discovery.
 
