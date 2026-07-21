@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Pulsar Protocol](README.md)
-* [Importing these docs into GitBook](Pulsar_Protocol_GitBook/IMPORT-INSTRUCTIONS.md)
-* [Package contents](Pulsar_Protocol_GitBook/PACKAGE-CONTENTS.md)
 * [Table of contents](Pulsar_Protocol_GitBook/SUMMARY.md)
 * [docs](docs/README.md)
   * [Brand assets](Pulsar_Protocol_GitBook/docs/brand-assets.md)
