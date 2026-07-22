@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Pulsar Introduction](README.md)
+* [Introduction](README.md)
 * [Risks and disclosures](risks-and-disclosures.md)
 
 ## Overview
